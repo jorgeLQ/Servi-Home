@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "392630570629",
+    "firebase_url": "https://servi-home-9247b.firebaseio.com",
+    "project_id": "servi-home-9247b",
+    "storage_bucket": "servi-home-9247b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392630570629:android:d2badff2050e5d28c2a3ec",
+        "android_client_info": {
+          "package_name": "com.app.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392630570629-ifdck6flq2odol9t5uslga32vbk7icre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIaDASW8lUr75YRJrpGolVJTcijA6BLYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392630570629-ifdck6flq2odol9t5uslga32vbk7icre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392630570629:android:9999d1b9cb5be060c2a3ec",
+        "android_client_info": {
+          "package_name": "com.app.servi_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392630570629-ifdck6flq2odol9t5uslga32vbk7icre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIaDASW8lUr75YRJrpGolVJTcijA6BLYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392630570629-ifdck6flq2odol9t5uslga32vbk7icre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

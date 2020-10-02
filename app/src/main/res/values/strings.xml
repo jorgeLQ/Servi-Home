@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Servi-Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Mi Perfil</string>
+    <string name="title_notifications">Empleados</string>
+    <string name="button">Button</string>
+
+    <string name="braground">TODO</string>
+    <string name="servi_home"><b>SERVI HOME</b></string>
+    <string name="logo">TODO</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="user">TODO</string>
+    <string name="pass">TODO</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="olvidaste_tu_contrase_a"><u>¿Olvidaste tu contraseña?</u></string>
+    <string name="a_n_no_tienes_cuenta">¿Aún no tienes cuenta?</string>
+    <string name="btn_crear_cuenta">Crear Cuenta</string>
+    <string name="ver_contrasenia">TODO</string>
+    <string name="ingresa_tus_datos">INGRESA TUS DATOS</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo_electronico">Correo Electrónico</string>
+    <string name="imgcorreo">imgcorreo</string>
+    <string name="imgUser">TODO</string>
+    <string name="confirmar_contrase_a">Confirmar Contraseña</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="btnRegistrarse">Registrarse</string>
+    <string name="btnInicioSesion">Iniciar Sesión</string>
+    <string name="ver_confirmar_contrasenia">TODO</string>
+    <string name="enviar_correo">enviar</string>
+    <string name="btnGoogle">btngoogle</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="escoja_una_categoria">ESCOJA UNA CATEGORIA</string>
+    <string name="btn_clean">TODO</string>
+    <string name="btn_garden">TODO</string>
+    <string name="btn_wash">TODO</string>
+    <string name="limpieza">Limpieza</string>
+    <string name="lavander_a">Lavandería</string>
+    <string name="jardiner_a">Jardinería</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="fecha_de_reserva">FECHA DE RESERVA</string>
+    <string name="upload_imagen">Subir Imagen</string>
+    <string name="upload_imagen_pregunta">¿Cómo desea subir la imagen?</string>
+    <string name="camara">Cámara</string>
+</resources>
